@@ -1,7 +1,7 @@
 # Quick Pie Blender Addon
 Version 0.1.1 compatible with Blender 2.72+
 
-This addon provides shortcuts to the most common and important actions in blender. The hotkeys are optimized for easy reach and convince.
+This addon provides shortcuts to the most common and important actions in blender. 
 
 - SPACEBAR - the most important tasks
 - Q - Secondary tasks
